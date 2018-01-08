@@ -1,8 +1,12 @@
 //=============================================================================
-// MUR Awesome Battleground
+// MUR Awesome Battleground v1.1
+// by MUR (https://github.com/murlab)
+// BSD 3-Clause License
+// Free for use with both free and commercial RPG Maker games.
 //=============================================================================
+
 /*:
- * @plugindesc Фон + эффекты для битвы
+ * @plugindesc v1.1 Фон + эффекты для битвы
  * @author Mur
  * @help Позволяет задать фон битвы для каждого региона, а так же
  * добавить дополнительные эффекты
